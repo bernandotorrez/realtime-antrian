@@ -1,0 +1,24 @@
+{
+  "name": "antrian",
+  "version": "1.0.0",
+  "description": "Antrian Realtime with Socket Io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Realtime",
+    "Socket",
+    "IO"
+  ],
+  "author": "Bernand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
